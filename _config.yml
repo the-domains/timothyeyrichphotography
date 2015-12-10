@@ -1,7 +1,7 @@
 name: timothyeyrichphotography
 favicon: null
-layout_spectrum: 0.7094973979983479
-typography_spectrum: 0.6999170400667936
+layout_spectrum: 1
+typography_spectrum: 0.74895
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
+    - '#191919'
+    - '#4f4f4f'
+    - '#e7e7e7'
+    - '#787878'
+    - '#afafaf'
   brandStrength: 0.5691191488876939
   lightness: 0.488386495038867
   saturation: 0.19490307080559433
